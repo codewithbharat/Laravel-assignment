@@ -1,7 +1,8 @@
 # Laravel Full-Stack Assessment: Employee TimeFlow System
 
-**Role:** Developer Intern  
-**Deadline:** 7 Days from Date of Assignment  
+**Role:** Developer Intern
+**Difficulty:** Beginner
+**Deadline:** End of Day, Sunday  
 **Focus:** Routing, Middleware, Eloquent Relationships, Blade Components
 
 ---
@@ -102,4 +103,11 @@ We will be looking for the following in your code:
 
 ---
 
-**Good Luck!**
+## 📬 Submission Instructions
+
+1.  **Push to GitHub:** Upload your completed assignment to a public GitHub repository.
+2.  **Documentation:** Your repository must include a `README.md` file with clear setup instructions (how to clone, migrate database, and run the server).
+3.  **Send Email:** Once completed, send the repository link to:
+    **bhaarat.ranjan@gmail.com**
+
+**Note:** If your submission meets the quality standards and functional requirements, we will schedule a follow-up meeting to discuss your code and next steps.
